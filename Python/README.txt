@@ -1,1 +1,0 @@
-Has folders with the actual Python code, and files necessary to run it, of the different versions of the software.
